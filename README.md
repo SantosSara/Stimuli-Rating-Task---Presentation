@@ -1,0 +1,3 @@
+# Stimuli-Rating-Task - Presentation
+Stimuli rating task using Presentation software (Neurobehavioral Systems, USA, www.neurobs.com). A set of 26 face pictures was presented. After the presentation of each picture, the participant rated it in terms of Valence (-2 to 2 SAM scale), Arousal (0 to 4 SAM scale), Dominance (-2 to 2 SAM scale) and Trustworthiness (untrustworthy: -1, neutral: 0 or trustworthy 1).
+The default option was the middle one. The participant could navigate to the left option(s) by pressing 'z' or the right ones by pressing 'm'. The final option was selected by pressing space. An example of the SAM scales used can be seen in the folder arousal (corresponding to the Arousal evaluation).
